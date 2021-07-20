@@ -1,0 +1,2 @@
+# VogenLyrics2XSLyrics
+Vogen采样歌词转XStudio采样歌词
